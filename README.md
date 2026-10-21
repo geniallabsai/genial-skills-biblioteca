@@ -8,6 +8,17 @@ Curadoria em português, do básico ao avançado. Verificada em04/10/2026. Recur
 2. Intermediário: IA local ou provedor → um agente/automação → caso de teste.
 3. Avançado: RAG/MCP → avaliação → limites e evidência.
 
+## Programa HAS-IA — exclusiva Genial Skills (em desenvolvimento)
+
+A Genial Skills está desenvolvendo o **HAS-IA — Habilitação de Arquitetos de Soluções com Inteligência Artificial**, programa autoral criado por **Bruno Costa e Genial Labs** para pessoas, colaboradores, gestores e empresários. O percurso em elaboração reúne fundamentos, letramento, segurança, dados, governança, responsabilidade, arquitetura de soluções e projeto aplicado.
+
+O **RRIA — Registro Responsável de Inteligência Artificial** será o **documento de registro integrado à habilitação HAS-IA**, não um curso separado. Certificado privado e documento RRIA dependem de conclusão e avaliação conforme critérios ainda a publicar; **não equivalem a licença estatal, ART ou registro profissional obrigatório**. O programa está em pré-lançamento, com lista de espera, sem turmas, matrículas ou emissão abertas.
+
+- [Conhecer o programa HAS-IA e entrar na lista de espera](https://www.geniallabs.com.br/programas/has-ia-rria)
+- [Estudar os fundamentos e critérios de habilitação](https://www.geniallabs.com.br/blog/has-ia-rria-formacao-privada-documentacao-projetos)
+- [Adiantar o estudo com o e-book ArquitetOS, de Bruno Costa](https://www.geniallabs.com.br/livro/arquitetos) — compra separada; não concede vaga ou certificado.
+
+---
 ## Downloads
 
 Baixe este repositório como ZIP para seis skills e três roteiros originais. Projetos externos têm ZIP fixado na revisão consultada em catalogo.json; siga README e licença de cada projeto. Papers têm PDF na fonte. Verificação documental não significa que executamos ou auditamos cada projeto. Modelos, APIs e hardware podem ter custo/licenças próprios.
